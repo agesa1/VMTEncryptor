@@ -1,3 +1,3 @@
 # VMTEncryptor
 
-Encrypting virtual methopd table with XOR
+Encrypting virtual method table with XOR
